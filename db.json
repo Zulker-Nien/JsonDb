@@ -1,0 +1,49 @@
+{
+  "signup": [
+    {
+      "fname": "a",
+      "lname": "b",
+      "dob": "2021-07-01",
+      "prof": "+8801717755244",
+      "email": "qwerty123@as.com",
+      "password": "qwerty123",
+      "id": 1
+    },
+    {
+      "fname": "Zulker",
+      "lname": "Nien",
+      "dob": "2021-07-01",
+      "prof": "Zulker Nien",
+      "email": "askdjn@gmail.com",
+      "password": "ljasd",
+      "id": 2
+    },
+    {
+      "fname": "Zulker",
+      "lname": "Nien",
+      "dob": "2021-07-01",
+      "prof": "Zulker Nien",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "id": 3
+    },
+    {
+      "fname": "a",
+      "lname": "da",
+      "dob": "2021-07-03",
+      "prof": "Zulker",
+      "email": "a@g.com",
+      "password": "adsd",
+      "id": 4
+    },
+    {
+      "fname": "Zulker",
+      "lname": "Nien",
+      "dob": "2021-07-08",
+      "prof": "Bester",
+      "email": "zu@gmail.com",
+      "password": "zulkernien",
+      "id": 5
+    }
+  ]
+}
